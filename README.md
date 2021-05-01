@@ -115,8 +115,6 @@ I desire to further improve my Vanilla CSS skills by taking more challenges.
 -   Frontend Mentor - [@juani2](https://www.frontendmentor.io/profile/juani2)
 -   Github - [@juani2](http://github.com/juani2)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
 ## Acknowledgments
 
 I want to give thanks to Frontend mentor team and all those challengers that posts their solution. It really helped me in pulling this challenge off.
