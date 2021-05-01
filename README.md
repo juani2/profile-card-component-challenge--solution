@@ -16,8 +16,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 -   [Author](#author)
 -   [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -31,8 +29,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Add solution URL here](https://github.com/juani2/profile-card-component-challenge--solution)
+-   Live Site URL: [Add live site URL here](https://optimistic-carson-677dd5.netlify.app/)
 
 ## My process
 
@@ -113,7 +111,6 @@ I desire to further improve my Vanilla CSS skills by taking more challenges.
 
 ## Author
 
--   Website - [Add your name here](https://www.your-site.com)
 -   Frontend Mentor - [@juani2](https://www.frontendmentor.io/profile/juani2)
 -   Github - [@juani2](http://github.com/juani2)
 
