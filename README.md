@@ -108,6 +108,7 @@ I desire to further improve my Vanilla CSS skills by taking more challenges.
 
 -   [Example resource 1](https://developer.mozilla.org/) - This helped me understand and try fundamental HTML semantics and CSS concepts to pull this whole challenge off.
 -   [Type-Scale](https://type-scale.com/) - I used this tool to help me decide proportional font sizes on this challenge.
+- [CSS Generator](https://cssgenerator.org/box-shadow-css-generator.html) - I used this tool for the card shadow. Very handy.
 
 ## Author
 
